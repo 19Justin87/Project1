@@ -89,7 +89,7 @@ var quotes = [
     document.getElementById('quote-box').innerHTML = message;
   }
  
-  // Print above code
+  // Print Quotes from above
   printQuote(); 
   
   
